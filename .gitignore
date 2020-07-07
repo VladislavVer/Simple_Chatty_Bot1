@@ -1,0 +1,57 @@
+# Project exclude paths
+/.gradle/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Compare Latin letters/out/
+/Problems/Compare Latin letters/out/production/classes/
+/Problems/Count the numbers/out/
+/Problems/Count the numbers/out/production/classes/
+/Problems/Counting positive numbers/out/
+/Problems/Counting positive numbers/out/production/classes/
+/Problems/Cutting the fraction/out/
+/Problems/Cutting the fraction/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/First, second, third/out/
+/Problems/First, second, third/out/production/classes/
+/Problems/Four numbers/out/
+/Problems/Four numbers/out/production/classes/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Get last digit/out/
+/Problems/Get last digit/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/How many nuts will be left after division/out/
+/Problems/How many nuts will be left after division/out/production/classes/
+/Problems/Interval/out/
+/Problems/Interval/out/production/classes/
+/Problems/Job/out/
+/Problems/Job/out/production/classes/
+/Problems/Kotlin x5/out/
+/Problems/Kotlin x5/out/production/classes/
+/Problems/Max values of integer types/out/
+/Problems/Max values of integer types/out/production/classes/
+/Problems/National assembly/out/
+/Problems/National assembly/out/production/classes/
+/Problems/Number squared/out/
+/Problems/Number squared/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Read and print/out/
+/Problems/Read and print/out/production/classes/
+/Problems/Sequence/out/
+/Problems/Sequence/out/production/classes/
+/Problems/Size, min and max/out/
+/Problems/Size, min and max/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/out/
+/Problems/The result of a game in Tic-Tac-Toe/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/We need to learn Kotlin/out/
+/Problems/We need to learn Kotlin/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
